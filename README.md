@@ -2,7 +2,7 @@
 
 
 
-All ressources for the TD EEJSI are into this Repo 
+All ressources for the TD  are into this Repo 
 
 
 ## About
